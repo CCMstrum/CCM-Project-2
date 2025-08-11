@@ -48,8 +48,7 @@ The objective of this project was to explore various aspects of the film industr
 3. **International Market Analysis**  
    How does the number of film releases in a country correlate with its total weekend box office gross, and what trends can be observed across various global markets?
 
-    ## Strategic Implications
-
+    ### Interpretation:
     - **High-efficiency markets** (Japan, South Korea) are ideal for premium releases.
     - **Volume-heavy markets** (Australia, UAE) may require better targeting or marketing to improve ROI.
     - **Emerging markets** (Mexico, Brazil, Vietnam) offer growth opportunities with tailored content.
